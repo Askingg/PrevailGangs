@@ -1,0 +1,10 @@
+name: PPGangs
+author: Askingg
+version: 1.0.0
+main: envy.syn.gangs.Main
+description: Custom Gangs System for PrevailPrison by Askingg
+
+commands:
+  gangs:
+    aliases: [gang, g, clans, clan]
+    description: Base Command
